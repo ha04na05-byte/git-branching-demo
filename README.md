@@ -1,2 +1,3 @@
-# git-branching-demo
-Demonstration of Git branching, commits and merging
+# Git Merge Conflict Demo
+
+This is the first branch.
